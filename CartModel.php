@@ -7,6 +7,6 @@ class CartModel {
     }
 
     public function getCart() {
-        return 'Cart';
+        return 'Cart update';
     }
 }
