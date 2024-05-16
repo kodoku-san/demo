@@ -9,4 +9,8 @@ class ProductModel {
     public function getProduct() {
         return 'Product update';
     }
+
+    public function setProduct() {
+        return 'Product set';
+    }
 }
