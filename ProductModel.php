@@ -11,6 +11,6 @@ class ProductModel {
     }
 
     public function setProduct() {
-        return 'Product set';
+        return 'Product set update';
     }
 }
